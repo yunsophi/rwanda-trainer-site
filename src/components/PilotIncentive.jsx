@@ -21,15 +21,33 @@ export default function PilotIncentive() {
 
           <div className="mt-8 rounded-xl bg-sun-400/15 p-5">
             <h3 className="font-semibold text-earth-900">
-              1,000 RWF Pilot Participation Incentive
+              2,000 RWF Pilot Participation Incentive
             </h3>
             <p className="mt-2 text-sm text-earth-900/80">
               The first eligible Trainers who successfully become Verified
-              Trainers may receive a 1,000 RWF pilot participation incentive
+              Trainers may receive a 2,000 RWF pilot participation incentive
               through Mobile Money.
             </p>
             <p className="mt-2 text-sm font-medium text-earth-900/70">
-              Submitting an application does not guarantee payment.
+              Submitting an application does not guarantee payment, and
+              becoming a Verified Trainer does not automatically guarantee
+              payment.
+            </p>
+          </div>
+
+          <div className="mt-6 rounded-xl border border-brand-100 bg-brand-50/60 p-5">
+            <h3 className="font-semibold text-earth-900">
+              Earn by Supporting Farmers
+            </h3>
+            <p className="mt-2 text-sm text-earth-900/80">
+              As the platform grows, Verified Trainers will be able to
+              receive requests from farmers and earn income by providing
+              agricultural knowledge and support.
+            </p>
+            <p className="mt-2 text-sm text-earth-900/80">
+              The amount of compensation will depend on the type of support
+              provided and will be determined as we develop the service with
+              our Trainers and farmers.
             </p>
           </div>
 

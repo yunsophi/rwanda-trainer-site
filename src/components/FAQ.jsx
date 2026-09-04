@@ -14,8 +14,8 @@ const faqs = [
     a: "No. Applying is free.",
   },
   {
-    q: "Will I definitely receive 1,000 RWF?",
-    a: "No. The 1,000 RWF is a limited pilot participation incentive for the first eligible Trainers who successfully become Verified Trainers. Applying does not guarantee payment.",
+    q: "Will I definitely receive 2,000 RWF?",
+    a: "No. The 2,000 RWF is a limited pilot participation incentive for the first eligible Trainers who successfully become Verified Trainers. Applying does not guarantee payment, and becoming a Verified Trainer does not automatically guarantee it either. This is separate from any future income Trainers may earn by supporting farmers.",
   },
   {
     q: "How will I help farmers?",
