@@ -31,10 +31,10 @@ export default function Footer() {
           <p>
             Contact:{" "}
             <a
-              href="mailto:frijwi.tech@gmail.com"
+              href="mailto:afrijwi.tech@gmail.com"
               className="text-earth-50/80 underline decoration-earth-50/30 underline-offset-2 hover:text-white"
             >
-              frijwi.tech@gmail.com
+              afrijwi.tech@gmail.com
             </a>
           </p>
           <p className="mt-3 text-xs text-earth-50/40">
